@@ -1,0 +1,14 @@
+{
+    "plugins": [
+        "-sharing",
+        "hide-published-with",
+        "expand-active-chapter",
+        "include-codeblock"
+    ],
+    "language": "ja",
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "title": "24-hackathon-unity-資料",
+    "description": "テトリスを作るunityハッカソン向けの資料です"
+}
