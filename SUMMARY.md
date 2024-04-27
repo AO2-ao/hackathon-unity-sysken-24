@@ -4,3 +4,4 @@
 * [Unityの環境構築](./markdown/maeoki.md)
   * [UnityHubのダウンロード](./markdown/UnityhubDown.md)
   * [Unityアカウントをつくる](./markdown/UnityAcount.md)
+  * [ライセンスの獲得](./markdown/UnityLicence.md)

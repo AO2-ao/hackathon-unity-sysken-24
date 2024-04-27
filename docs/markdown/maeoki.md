@@ -23,9 +23,14 @@ Microsoftが提供する開発用エディタです
   
 ## なんでVSCode?
 本来、UnityはVisualStudio2019やVisualStudio2022などを推奨しています。  
-でも、これがかなり重い。容量いっぱい食べます。  
+でも、これが重い。1.5GB食べます。  
 VisualStudioはIDEというもので、雑にいうとソフト開発における便利機能全部乗せです  
 Unity君がほぼIDEだから個人開発ならVisualStudioはちょっと過剰だと思っています。  
-あと、VisualStudioとUnityの併用が学校指定PCで動くかわからん。
+あと、VisualStudioとUnityの併用が学校指定PCで動くかわからん。  
+(追記)  
+新入生のPCがかなりストレージとメモリに余裕がありそうなのでVisualStudi(普通にダウンロードするやつ)を使っても問題ないと判断しました。  
+VSCodeの入れ方も載せますが、どちらを使っても問題ないです。  
+具体的には、VisualStudioが1.5GBでVSCodeが372MBで約５倍の差があるので、容量とか動作がサクサクなほうがいいよ～って人はVSCode入れてみてね  
+
   
 だからVSCodeをインストールする必要性があったんですね。  
