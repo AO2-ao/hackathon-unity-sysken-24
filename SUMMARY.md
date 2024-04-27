@@ -5,3 +5,4 @@
   * [UnityHubのダウンロード](./markdown/UnityhubDown.md)
   * [Unityアカウントをつくる](./markdown/UnityAcount.md)
   * [ライセンスの獲得](./markdown/UnityLicence.md)
+  * [UnityEditorをいれる](./markdown/UnityDown.md)
